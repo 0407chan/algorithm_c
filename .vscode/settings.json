@@ -5,6 +5,7 @@
         "iostream": "cpp",
         "string": "cpp",
         "ios": "cpp",
-        "istream": "cpp"
+        "istream": "cpp",
+        "__bit_reference": "cpp"
     }
 }
