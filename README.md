@@ -2,5 +2,4 @@
 C++ 
 
 ## 현재 백준 랭크
-![image](https://user-images.githubusercontent.com/19217576/151375731-58701ae5-52e8-4e63-9e04-c42eb0973e84.png)
-
+![image](https://user-images.githubusercontent.com/19217576/152362711-909021f3-0a0a-404f-9175-4f4191087e9a.png)
